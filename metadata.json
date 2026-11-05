@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster",
+  "description": "Interactive modern quiz application with categories, Open Trivia DB API, custom questions, leaderboard, and complete Flutter/Dart source code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

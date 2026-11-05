@@ -1,0 +1,27 @@
+name: quizmaster
+description: "QuizMaster - A modern, interactive Android quiz application built with Flutter & Dart."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  http: ^1.2.1
+  shared_preferences: ^2.2.3
+  google_fonts: ^6.2.1
+  html_unescape: ^2.0.0
+  flutter_animate: ^4.5.0
+  audioplayers: ^6.0.0
+  confetti: ^0.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
